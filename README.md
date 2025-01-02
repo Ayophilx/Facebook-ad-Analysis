@@ -18,3 +18,5 @@ The campaigns are essentially educational and tailored to encourage talent displ
 For each campaign, there is a “Link Click” ad which allows interaction and direct navigation to the campaign page
 Some of the campaigns are effective in reaching the targeted audience while few aren't effective.
 
+# Question(s) For Analysis 
+1. Which campaigns are getting Engagements
