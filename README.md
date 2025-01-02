@@ -8,3 +8,13 @@ Through targeted Facebook ads, GlobalShala promoted this event to students, educ
 # About Facebook Ads
 Facebook Ads is a digital advertising platform that allows businesses to create and run ads targeted at specific audience segments. Through its advanced targeting options, advertisers can narrow down their audience by age, location, interests, and even behaviors, ensuring their message reaches the right people. Ads come in various formats such as images, videos, and carousels, giving advertisers flexibility in how they present their message.
 The platform uses performance metrics like reach (how many people saw the ad), impressions (how often the ad was displayed), and click-through rates to measure success. 
+
+# Ads Overview 
+
+There are 11 main campaigns, categorized by either a distinct or group of geographical locations. Majority of the campaigns are directed towards student audiences while few are towards Educators and Principals
+The campaigns cut across different continents
+Within each main campaign, a specific ad is directed towards a peculiar age group that represents the campaign’s target audience
+The campaigns are essentially educational and tailored to encourage talent displays by different age group in the education sector 
+For each campaign, there is a “Link Click” ad which allows interaction and direct navigation to the campaign page
+Some of the campaigns are effective in reaching the targeted audience while few aren't effective.
+
